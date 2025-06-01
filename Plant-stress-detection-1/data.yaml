@@ -1,0 +1,14 @@
+names:
+- Critical Stress
+- HEALTHY
+- Non-critical Stress
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: plant-stress-detection-biwkz
+  url: https://app.roboflow.com/devarthraj/plant-stress-detection-biwkz/1
+  version: 1
+  workspace: devarthraj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
